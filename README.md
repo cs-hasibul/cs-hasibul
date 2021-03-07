@@ -5,6 +5,6 @@ Currently I'm studying at International University of Business Agriculture and T
 - 🔭 I’m currently working on As a Student, Dept. of CSE, IUBAT.
 - 🌱 I’m currently learning Python
 - 💬 Ask me about Tech Related Questions
-- 📫 How to reach me: [Gmail](cse.mdhasibulhasan@gmail.com) [Facebook](facebook.com/mdhasibulhasan3137) [LinkedIn](https://www.linkedin.com/in/mdhasibulhasan3137) 
+- 📫 How to reach me: [Gmail](cse.mdhasibulhasan@gmail.com)[Facebook](https://www.facebook.com/mdhasibulhasan3137)[LinkedIn](https://www.linkedin.com/in/mdhasibulhasan3137) 
 
 
