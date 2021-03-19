@@ -10,12 +10,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mdhasibul_hasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mdhasibul_hasan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mdhasibulhasan3137" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mdhasibulhasan3137" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cs-hasibul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cs-hasibul" height="30" width="40" /></a>
+<a href="https://fb.com/cs.hasibul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="cs.hasibul" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/cs_hasibul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="cs_hasibul" height="30" width="40" /></a>
+<a href="https://twitter.com/cs_hasibul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cs_hasibul" height="30" width="40" /></a>
+<a href="https://instagram.com/cs_hasibul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cs_hasibul" height="30" width="40" /></a>
 <a href="https://kaggle.com/mdhasibulhasan3137" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mdhasibulhasan3137" height="30" width="40" /></a>
-<a href="https://fb.com/mdhasibulhasan3137" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mdhasibulhasan3137" height="30" width="40" /></a>
-<a href="https://instagram.com/m.hasibul_hasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="m.hasibul_hasan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mdhasibulhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mdhasibulhasan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
