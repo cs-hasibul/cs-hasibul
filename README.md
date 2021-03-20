@@ -1,6 +1,6 @@
 <h1 align="center">This is Md Hasibul Hasan</h1>
 <h3 align="center">Student of International University of Business Agriculture and Technology</h3>
-<h4 align="center">I am interested in Machine Learning(ML), Natural language processing (NLP), Generative adversarial networks (GANs), Computer Vision etc</h4>
+<h4 align="center">I am interested in Machine Learning(ML), Natural Language Processing (NLP), Generative Adversarial Networks (GANs), Computer Vision etc</h4>
 
 - 🌱 I’m currently learning **Python**
 
