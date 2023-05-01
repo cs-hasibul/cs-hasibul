@@ -1,7 +1,6 @@
 <h4 align="center">Md Hasibul Hasan has been in software development for around 2 years, developing efficient and user-friendly ERP (Enterprise Resource Planning) solutions. Currently, he is working as a Software Engineer @ Intellier Limited.</h4>
 
-Have worked with the following technologies:
-
+Have worked with the following technologies:<br/>
 Back-End Development: Python, JavaScript
 Frameworks/CMS: Odoo, WordPress
 Databases & Storage: MySQL, PostgreSQL
