@@ -1,10 +1,29 @@
-<h1 align="center">This is Md Hasibul Hasan</h1>
-<h3 align="center">Student of International University of Business Agriculture and Technology</h3>
-<h4 align="center">I am interested in Machine Learning and Deep Learning Staff</h4>
+<h4 align="center">Md Hasibul Hasan has been in software development for around 2 years, developing efficient and user-friendly ERP (Enterprise Resource Planning) solutions. Currently, he is working as a Software Engineer @ Intellier Limited.</h4>
 
-- 🌱 I’m currently learning **Python**
+Have worked with the following technologies:
+Back-End Development: Python, JavaScript
+Frameworks/CMS: Odoo, WordPress
+Databases & Storage: MySQL, PostgreSQL
+Version Control: Git with Smart Git Flow; used GitHub, and GitLab.
+Front-End Development: HTML, XML, CSS, Bootstrap
+API testing tools: Postman
+CLI: ​Fluent in Ubuntu 20.04 Terminal
+SSH /Telnet: PuTTY 0.75
+Cloud Technologies:​ Amazon AWS, Google Cloud Platform.
+Collaboration tools: Skype, Trello, Google Meet, Zoom, Microsoft Teams
+OS: Ubuntu 20.04, Parrot, Windows 10
 
-- 📫 How to reach me **cs.hasibul@gmail.com**
+Working with Python/PostgreSQL/Odoo since 2021.
+
+Have knowledge of the following technologies:
+Languages: C, C++, R, PHP
+
+Learning & exploring:
+Docker, Kubernetes(K8s), Go Programming for Cloud and Server Side Applications, etc.
+
+Md Hasibul Hasan enjoys learning Artificial Intelligence and doing research on AI-related topics. He uses his communication, analytical, and technical skills to lead a team for his and the company's growth.
+
+- 📫 How to reach **cs.hasibul@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
